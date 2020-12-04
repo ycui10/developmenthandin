@@ -1,1 +1,19 @@
 /* Put your style information here! */
+.container-fluid{
+	padding: 5vw;
+}
+
+.row{
+/*	justify-content: center;*/
+	margin-bottom: 3vw;
+	padding-left: 5vw;
+	padding-right: 5vw;
+}
+
+h3{
+	text-align: center;
+}
+
+.web-page{
+	width: 50vw;
+}
